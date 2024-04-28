@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WF_ArbolBusqueda2/1.0.0": {
+        "dependencies": {
+          "EstructurasDatosPG3CS": "1.0.0"
+        },
+        "runtime": {
+          "WF_ArbolBusqueda2.dll": {}
+        }
+      },
+      "EstructurasDatosPG3CS/1.0.0": {
+        "runtime": {
+          "EstructurasDatosPG3CS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WF_ArbolBusqueda2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstructurasDatosPG3CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
